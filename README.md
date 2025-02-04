@@ -1,4 +1,4 @@
-# **Domino’s Sales Dashboard - Detailed Description**  
+# **Domino’s Sales Dashboard 
 
 This **Domino’s Sales Dashboard** provides a comprehensive analysis of pizza sales, revenue trends, and customer preferences. The analysis begins by **extracting relevant data from the sales table**, followed by data cleaning and transformation to ensure accuracy. Various visualizations and KPIs have been incorporated to gain insights into different aspects of the business.
 
