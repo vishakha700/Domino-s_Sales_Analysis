@@ -68,6 +68,7 @@ This **Domino’s Sales Dashboard** provides a clear picture of sales trends, re
 3. **Leverage Peak Sales Hours** – Introduce **meal combos for lunch and dinner** (12 PM & 6 PM) to maximize revenue.  
 4. **Capitalize on Best-Selling Pizzas** – Feature top-selling pizzas in advertisements and introduce **seasonal variations** to maintain customer interest.  
 
-![Uploading Screenshot 2025-02-04 181800.png…]()
+![Screenshot 2025-02-04 181800](https://github.com/user-attachments/assets/bfebe17f-580d-4c56-98df-fe7d4fe39ca7)
+
 
 ![Uploading Screenshot 2025-02-04 181829.png…]()
