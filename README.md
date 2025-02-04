@@ -57,8 +57,17 @@ These metrics give a **high-level view** of overall business performance, helpin
 
 ---
 
-### **Conclusion & Recommendations**  
-1. **Increase Sales in Low-Performing Months & Days** – Implement discounts or promotional events to improve revenue in September, October, and Fridays.  
-2. **Boost XL and XXL Pizza Sales** – Create special meal deals to encourage customers to purchase larger pizzas.  
-3. **Optimize High-Demand Hours** – Introduce **lunch and dinner meal combos** to capitalize on peak sales times (12 PM & 6 PM).  
-4. **Leverage Popular Pizza Sales** – Highlight the top 5 pizzas in marketing campaigns and offer seasonal varieties to keep customer engagement high.  
+### **Conclusion**  
+This **Domino’s Sales Dashboard** provides a clear picture of sales trends, revenue distribution, and customer preferences. The data highlights peak sales in **April, July, and December**, with **Wednesdays performing the best** and **Fridays the lowest** in terms of revenue. **Large pizzas dominate revenue**, while **XL and XXL sizes underperform**. Additionally, the **top-selling pizzas significantly drive sales**, showing strong customer preferences.  
+
+---
+
+### **Recommendations**  
+1. **Increase Sales in Low-Performing Periods** – Implement discounts and promotions during September, October, and Fridays to balance sales.  
+2. **Promote XL and XXL Pizzas** – Create **combo deals** or **limited-time offers** to boost sales for underperforming sizes.  
+3. **Leverage Peak Sales Hours** – Introduce **meal combos for lunch and dinner** (12 PM & 6 PM) to maximize revenue.  
+4. **Capitalize on Best-Selling Pizzas** – Feature top-selling pizzas in advertisements and introduce **seasonal variations** to maintain customer interest.  
+
+![Uploading Screenshot 2025-02-04 181800.png…]()
+
+![Uploading Screenshot 2025-02-04 181829.png…]()
