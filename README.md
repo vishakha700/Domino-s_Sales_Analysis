@@ -70,5 +70,5 @@ This **Domino’s Sales Dashboard** provides a clear picture of sales trends, re
 
 ![Screenshot 2025-02-04 181800](https://github.com/user-attachments/assets/bfebe17f-580d-4c56-98df-fe7d4fe39ca7)
 
+![Screenshot 2025-02-04 181829](https://github.com/user-attachments/assets/c7e8526b-dbfd-4afe-925e-b3d03b683af3)
 
-![Uploading Screenshot 2025-02-04 181829.png…]()
