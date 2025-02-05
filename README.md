@@ -10,7 +10,7 @@ This **Domino’s Sales Dashboard** provides a comprehensive analysis of pizza s
 - **Total Revenue:** ₹25M  
 - **Average Order Value (AOV):** ₹1.15K  
 - **Total Quantity Sold:** 50K  
-- **Sum of Order ID:** 520M  
+- **Sum of Order ID:** 24K 
 - **Average Orders per Person:** 235  
 
 These metrics give a **high-level view** of overall business performance, helping stakeholders understand sales volume and revenue generation.
@@ -68,7 +68,7 @@ This **Domino’s Sales Dashboard** provides a clear picture of sales trends, re
 3. **Leverage Peak Sales Hours** – Introduce **meal combos for lunch and dinner** (12 PM & 6 PM) to maximize revenue.  
 4. **Capitalize on Best-Selling Pizzas** – Feature top-selling pizzas in advertisements and introduce **seasonal variations** to maintain customer interest.  
 
-![Screenshot 2025-02-04 181800](https://github.com/user-attachments/assets/bfebe17f-580d-4c56-98df-fe7d4fe39ca7)
+![Screenshot 2025-02-05 214850](https://github.com/user-attachments/assets/64ce8893-072a-4a88-b293-acd7deb874ff)
 
-![Screenshot 2025-02-04 181829](https://github.com/user-attachments/assets/c7e8526b-dbfd-4afe-925e-b3d03b683af3)
+![Screenshot 2025-02-05 214918](https://github.com/user-attachments/assets/6b150eec-4f04-4313-9efb-5caf16a64c11)
 
